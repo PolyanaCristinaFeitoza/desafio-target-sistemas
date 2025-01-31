@@ -1,4 +1,4 @@
-# desafio-target
+# Desafio da Target Sistemas
 
 ## Build Setup
 
